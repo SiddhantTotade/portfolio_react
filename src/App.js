@@ -1,3 +1,4 @@
+import { Experience } from "./components/Experience";
 import { About } from "./components/About";
 import { Home } from "./components/Home";
 import { NavBar } from "./components/NavBar";
@@ -11,6 +12,7 @@ function App() {
       <Home />
       <About />
       <Portfolio />
+      <Experience />
       <SocialLinks />
     </div>
   );
