@@ -19,7 +19,7 @@ export const Home = () => {
                     </div>
                 </div>
                 <div>
-                    <img src={HeroImage} alt="my profile pic" className='rounded-2xl mx-auto w-2/3 md:w-full' />
+                    <img src={HeroImage} alt="my profile pic" className='rounded-2xl mx-auto w-2/3 md:w-150' />
                 </div>
             </div>
         </div>
